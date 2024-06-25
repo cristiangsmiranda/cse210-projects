@@ -3,9 +3,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Learning02 World!");
-
-
         Job Job1 = new Job();
         Job1._company = "Disney";
         Job1._jobTitle = "Software Engineer";

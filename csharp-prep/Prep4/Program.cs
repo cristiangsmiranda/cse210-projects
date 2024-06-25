@@ -5,8 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Prep4 World!");
-
         List<int> numbers = new List<int>();
         int number = -1;
         int total = 0;

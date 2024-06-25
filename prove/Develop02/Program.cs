@@ -11,8 +11,6 @@ class Program
     static List<string> JournalEntries = new List<string>();
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop02 World!");
-
         List<string> prompts = new List<string>
         {
             "Who was the most interesting person I interacted with today?",
