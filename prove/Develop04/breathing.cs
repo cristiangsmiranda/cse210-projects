@@ -51,7 +51,6 @@ public class Breathing : Activity
 
             totalTimeInSeconds -= 6; // Each breathing cycle takes 6 seconds
         }
-        // After completing the specified duration, return to main menu
     }
 }
 

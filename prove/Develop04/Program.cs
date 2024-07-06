@@ -1,3 +1,8 @@
+// As a point of creativity, I decided to create a new game option that allows the user to
+// exercise gratitude in their daily lives, so the logic of the game follows pretty much the same pattern,
+// but initially you're given motivational phrases to think about and then some phrases of gratitude appear
+// and it gradually changes so that the user always has in mind many reasons to be grateful
+
 using System;
 using System.Threading;
 
