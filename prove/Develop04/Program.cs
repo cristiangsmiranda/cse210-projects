@@ -12,7 +12,8 @@ class Program
             Console.WriteLine("1. Start Breathing activity");
             Console.WriteLine("2. Start Reflection activity");
             Console.WriteLine("3. Start Listing activity");
-            Console.WriteLine("4. Quit");
+            Console.WriteLine("4. Start Gratetude activity");
+            Console.WriteLine("5. Quit");
             Console.Write("Select a choice from the menu: ");
             string choice = Console.ReadLine();
 
@@ -28,6 +29,9 @@ class Program
                     new Listing().StartTheActivity();
                     break;
                 case "4":
+                    new Gratitude().StartTheActivity();
+                    break;
+                case "5":
                     Console.WriteLine("Leaving.");
                     return;
                 default:
