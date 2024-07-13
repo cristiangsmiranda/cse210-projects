@@ -1,0 +1,11 @@
+{
+  "Goals": [
+    {
+      "Name": "escovar os dentes",
+      "Description": "devo pegar a escova, colocar pasta e escovar os dentes",
+      "Points": 10,
+      "IsComplete": true
+    }
+  ],
+  "Score": 10
+}
